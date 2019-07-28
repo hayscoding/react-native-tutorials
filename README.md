@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to react-native-tutorials 👋</h1>
+<h1 align="center">Welcome to the React Native Tutorials👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="haysstanford.com">
@@ -11,24 +11,25 @@
 
 > A mega-collection of tutorials on React Native including subjects such as React Navigation, Expo Tools, Animated Packages, & much, much more.
 
-### 🏠 [Homepage](haysstanford.com)
-
-## Install
-
-```sh
-yarn
-```
+### 🏠 [Homepage](https://www.haysstanford.com/course/)
 
 ## Usage
 
 ```sh
+git clone git@github.com:HaysS/react-native-tutorials.git
 npm install
+expo start
 ```
+
+## Tutorials
+
+To find a specific tutorial, run ```git branch -v```, find the name of the tutorial you want to use, then run ```git checkout [BRANCH_NAME]```. View the _Usage_ section above for instructions on how to run the tutorial.
 
 ## Author
 
 👤 **Hays Stanford**
-
+* Website: [haysstanford.com](http://bit.ly/2P0MEB1)
+* LinkedIn: [Hays Stanford](https://www.linkedin.com/in/hayss/)
 * Twitter: [@thehaysstanford](https://twitter.com/thehaysstanford)
 * Github: [@HaysS](https://github.com/HaysS)
 
