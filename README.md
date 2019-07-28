@@ -28,7 +28,8 @@ npm install
 ## Author
 
 👤 **Hays Stanford**
-* LinkedIn: [Hays Stanford](git@github.com:HaysS/react-native-tutorials.git)
+* Website: [haysstanford.com](http://bit.ly/2P0MEB1)
+* LinkedIn: [Hays Stanford](https://www.linkedin.com/in/hayss/)
 * Twitter: [@thehaysstanford](https://twitter.com/thehaysstanford)
 * Github: [@HaysS](https://github.com/HaysS)
 
