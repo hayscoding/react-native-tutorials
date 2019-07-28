@@ -11,7 +11,7 @@
 
 > A mega-collection of tutorials on React Native including subjects such as React Navigation, Expo Tools, Animated Packages, & much, much more.
 
-### 🏠 [Homepage](haysstanford.com)
+### 🏠 [Homepage](https://www.haysstanford.com/course/)
 
 ## Usage
 
