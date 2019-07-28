@@ -35,7 +35,7 @@ To find a specific tutorial, run ```git branch -v```, find the name of the tutor
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+### Give a ⭐️ if this project helped you!
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
