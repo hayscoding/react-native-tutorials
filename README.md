@@ -13,17 +13,17 @@
 
 ### 🏠 [Homepage](haysstanford.com)
 
-## Install
-
-```sh
-yarn
-```
-
 ## Usage
 
 ```sh
+git clone git@github.com:HaysS/react-native-tutorials.git
 npm install
+expo start
 ```
+
+## Tutorials
+
+To find a specific tutorial, run ```git branch -v```, find the name of the tutorial you want to use, then run ```git checkout [BRANCH_NAME]```. View the _Usage_ section above for instructions on how to run the tutorial.
 
 ## Author
 
