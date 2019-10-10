@@ -1,4 +1,5 @@
-<h1 align="center">------------ React Native Examples ------------<h2 align="center">🎴🎴 The Ultimate Collection 🎴🎴</h2></h1>
+<h1 align="center">------------ React Native Examples ------------</h1>
+<h2 align="center">🎴🎴 The Ultimate Collection 🎴🎴</h2>
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
