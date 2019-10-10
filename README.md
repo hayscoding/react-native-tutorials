@@ -11,7 +11,7 @@
 
 > The ultimate collection of React Native tutorials. Includes animations, user auth, screen navigation & much more.
 
-### 🏠 [Homepage](haysstanford.com)
+### 🏠 [Homepage](https://blog.haysstanford.com/)
 
 ## Install
 
