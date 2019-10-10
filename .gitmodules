@@ -1,0 +1,3 @@
+[submodule "firebase-login-app"]
+	path = firebase-login-app
+	url = git@github.com:HaysS/firebase-login-app.git
