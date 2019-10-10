@@ -4,3 +4,6 @@
 [submodule "react-native-menu-bar"]
 	path = react-native-menu-bar
 	url = git@github.com:HaysS/react-native-menu-bar.git
+[submodule "practice-app-youtube-rn"]
+	path = practice-app-youtube-rn
+	url = git@github.com:HaysS/practice-app-youtube-rn.git
