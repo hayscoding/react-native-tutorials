@@ -1,3 +1,6 @@
 [submodule "firebase-login-app"]
 	path = firebase-login-app
 	url = git@github.com:HaysS/firebase-login-app.git
+[submodule "react-native-menu-bar"]
+	path = react-native-menu-bar
+	url = git@github.com:HaysS/react-native-menu-bar.git
